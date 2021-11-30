@@ -1,0 +1,13 @@
+C:\Users\Anyie\Desktop\ejercicios c#\uno\uno\bin\Debug\netcoreapp3.1\uno.exe
+C:\Users\Anyie\Desktop\ejercicios c#\uno\uno\bin\Debug\netcoreapp3.1\uno.deps.json
+C:\Users\Anyie\Desktop\ejercicios c#\uno\uno\bin\Debug\netcoreapp3.1\uno.runtimeconfig.json
+C:\Users\Anyie\Desktop\ejercicios c#\uno\uno\bin\Debug\netcoreapp3.1\uno.runtimeconfig.dev.json
+C:\Users\Anyie\Desktop\ejercicios c#\uno\uno\bin\Debug\netcoreapp3.1\uno.dll
+C:\Users\Anyie\Desktop\ejercicios c#\uno\uno\bin\Debug\netcoreapp3.1\uno.pdb
+C:\Users\Anyie\Desktop\ejercicios c#\uno\uno\obj\Debug\netcoreapp3.1\uno.csproj.AssemblyReference.cache
+C:\Users\Anyie\Desktop\ejercicios c#\uno\uno\obj\Debug\netcoreapp3.1\uno.AssemblyInfoInputs.cache
+C:\Users\Anyie\Desktop\ejercicios c#\uno\uno\obj\Debug\netcoreapp3.1\uno.AssemblyInfo.cs
+C:\Users\Anyie\Desktop\ejercicios c#\uno\uno\obj\Debug\netcoreapp3.1\uno.csproj.CoreCompileInputs.cache
+C:\Users\Anyie\Desktop\ejercicios c#\uno\uno\obj\Debug\netcoreapp3.1\uno.dll
+C:\Users\Anyie\Desktop\ejercicios c#\uno\uno\obj\Debug\netcoreapp3.1\uno.pdb
+C:\Users\Anyie\Desktop\ejercicios c#\uno\uno\obj\Debug\netcoreapp3.1\uno.genruntimeconfig.cache

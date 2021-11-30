@@ -1,0 +1,13 @@
+C:\Users\Anyie\Desktop\ejercicios c#\18\18\bin\Debug\netcoreapp3.1\18.exe
+C:\Users\Anyie\Desktop\ejercicios c#\18\18\bin\Debug\netcoreapp3.1\18.deps.json
+C:\Users\Anyie\Desktop\ejercicios c#\18\18\bin\Debug\netcoreapp3.1\18.runtimeconfig.json
+C:\Users\Anyie\Desktop\ejercicios c#\18\18\bin\Debug\netcoreapp3.1\18.runtimeconfig.dev.json
+C:\Users\Anyie\Desktop\ejercicios c#\18\18\bin\Debug\netcoreapp3.1\18.dll
+C:\Users\Anyie\Desktop\ejercicios c#\18\18\bin\Debug\netcoreapp3.1\18.pdb
+C:\Users\Anyie\Desktop\ejercicios c#\18\18\obj\Debug\netcoreapp3.1\18.csproj.AssemblyReference.cache
+C:\Users\Anyie\Desktop\ejercicios c#\18\18\obj\Debug\netcoreapp3.1\18.AssemblyInfoInputs.cache
+C:\Users\Anyie\Desktop\ejercicios c#\18\18\obj\Debug\netcoreapp3.1\18.AssemblyInfo.cs
+C:\Users\Anyie\Desktop\ejercicios c#\18\18\obj\Debug\netcoreapp3.1\18.csproj.CoreCompileInputs.cache
+C:\Users\Anyie\Desktop\ejercicios c#\18\18\obj\Debug\netcoreapp3.1\18.dll
+C:\Users\Anyie\Desktop\ejercicios c#\18\18\obj\Debug\netcoreapp3.1\18.pdb
+C:\Users\Anyie\Desktop\ejercicios c#\18\18\obj\Debug\netcoreapp3.1\18.genruntimeconfig.cache

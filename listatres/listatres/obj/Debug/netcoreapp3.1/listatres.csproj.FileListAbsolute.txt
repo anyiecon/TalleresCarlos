@@ -1,0 +1,13 @@
+D:\Escritorio\CARLOS\c#\listatres\listatres\bin\Debug\netcoreapp3.1\listatres.exe
+D:\Escritorio\CARLOS\c#\listatres\listatres\bin\Debug\netcoreapp3.1\listatres.deps.json
+D:\Escritorio\CARLOS\c#\listatres\listatres\bin\Debug\netcoreapp3.1\listatres.runtimeconfig.json
+D:\Escritorio\CARLOS\c#\listatres\listatres\bin\Debug\netcoreapp3.1\listatres.runtimeconfig.dev.json
+D:\Escritorio\CARLOS\c#\listatres\listatres\bin\Debug\netcoreapp3.1\listatres.dll
+D:\Escritorio\CARLOS\c#\listatres\listatres\bin\Debug\netcoreapp3.1\listatres.pdb
+D:\Escritorio\CARLOS\c#\listatres\listatres\obj\Debug\netcoreapp3.1\listatres.csproj.AssemblyReference.cache
+D:\Escritorio\CARLOS\c#\listatres\listatres\obj\Debug\netcoreapp3.1\listatres.AssemblyInfoInputs.cache
+D:\Escritorio\CARLOS\c#\listatres\listatres\obj\Debug\netcoreapp3.1\listatres.AssemblyInfo.cs
+D:\Escritorio\CARLOS\c#\listatres\listatres\obj\Debug\netcoreapp3.1\listatres.csproj.CoreCompileInputs.cache
+D:\Escritorio\CARLOS\c#\listatres\listatres\obj\Debug\netcoreapp3.1\listatres.dll
+D:\Escritorio\CARLOS\c#\listatres\listatres\obj\Debug\netcoreapp3.1\listatres.pdb
+D:\Escritorio\CARLOS\c#\listatres\listatres\obj\Debug\netcoreapp3.1\listatres.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Anyie\Desktop\ejercicios c#\mayor\mayor\bin\Debug\netcoreapp3.1\mayor.exe
+C:\Users\Anyie\Desktop\ejercicios c#\mayor\mayor\bin\Debug\netcoreapp3.1\mayor.deps.json
+C:\Users\Anyie\Desktop\ejercicios c#\mayor\mayor\bin\Debug\netcoreapp3.1\mayor.runtimeconfig.json
+C:\Users\Anyie\Desktop\ejercicios c#\mayor\mayor\bin\Debug\netcoreapp3.1\mayor.runtimeconfig.dev.json
+C:\Users\Anyie\Desktop\ejercicios c#\mayor\mayor\bin\Debug\netcoreapp3.1\mayor.dll
+C:\Users\Anyie\Desktop\ejercicios c#\mayor\mayor\bin\Debug\netcoreapp3.1\mayor.pdb
+C:\Users\Anyie\Desktop\ejercicios c#\mayor\mayor\obj\Debug\netcoreapp3.1\mayor.AssemblyInfoInputs.cache
+C:\Users\Anyie\Desktop\ejercicios c#\mayor\mayor\obj\Debug\netcoreapp3.1\mayor.AssemblyInfo.cs
+C:\Users\Anyie\Desktop\ejercicios c#\mayor\mayor\obj\Debug\netcoreapp3.1\mayor.csproj.CoreCompileInputs.cache
+C:\Users\Anyie\Desktop\ejercicios c#\mayor\mayor\obj\Debug\netcoreapp3.1\mayor.dll
+C:\Users\Anyie\Desktop\ejercicios c#\mayor\mayor\obj\Debug\netcoreapp3.1\mayor.pdb
+C:\Users\Anyie\Desktop\ejercicios c#\mayor\mayor\obj\Debug\netcoreapp3.1\mayor.genruntimeconfig.cache

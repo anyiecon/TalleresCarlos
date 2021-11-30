@@ -1,0 +1,12 @@
+C:\Users\Anyie\Desktop\ejercicios c#\while100\while100\bin\Debug\netcoreapp3.1\while100.exe
+C:\Users\Anyie\Desktop\ejercicios c#\while100\while100\bin\Debug\netcoreapp3.1\while100.deps.json
+C:\Users\Anyie\Desktop\ejercicios c#\while100\while100\bin\Debug\netcoreapp3.1\while100.runtimeconfig.json
+C:\Users\Anyie\Desktop\ejercicios c#\while100\while100\bin\Debug\netcoreapp3.1\while100.runtimeconfig.dev.json
+C:\Users\Anyie\Desktop\ejercicios c#\while100\while100\bin\Debug\netcoreapp3.1\while100.dll
+C:\Users\Anyie\Desktop\ejercicios c#\while100\while100\bin\Debug\netcoreapp3.1\while100.pdb
+C:\Users\Anyie\Desktop\ejercicios c#\while100\while100\obj\Debug\netcoreapp3.1\while100.AssemblyInfoInputs.cache
+C:\Users\Anyie\Desktop\ejercicios c#\while100\while100\obj\Debug\netcoreapp3.1\while100.AssemblyInfo.cs
+C:\Users\Anyie\Desktop\ejercicios c#\while100\while100\obj\Debug\netcoreapp3.1\while100.csproj.CoreCompileInputs.cache
+C:\Users\Anyie\Desktop\ejercicios c#\while100\while100\obj\Debug\netcoreapp3.1\while100.dll
+C:\Users\Anyie\Desktop\ejercicios c#\while100\while100\obj\Debug\netcoreapp3.1\while100.pdb
+C:\Users\Anyie\Desktop\ejercicios c#\while100\while100\obj\Debug\netcoreapp3.1\while100.genruntimeconfig.cache

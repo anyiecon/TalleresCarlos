@@ -1,0 +1,10 @@
+D:\Escritorio\CARLOS\c#\Mascotas\Mascotas\bin\Debug\Mascotas.exe.config
+D:\Escritorio\CARLOS\c#\Mascotas\Mascotas\bin\Debug\Mascotas.exe
+D:\Escritorio\CARLOS\c#\Mascotas\Mascotas\bin\Debug\Mascotas.pdb
+D:\Escritorio\CARLOS\c#\Mascotas\Mascotas\obj\Debug\Mascotas.csproj.AssemblyReference.cache
+D:\Escritorio\CARLOS\c#\Mascotas\Mascotas\obj\Debug\Mascotas.Form1.resources
+D:\Escritorio\CARLOS\c#\Mascotas\Mascotas\obj\Debug\Mascotas.Properties.Resources.resources
+D:\Escritorio\CARLOS\c#\Mascotas\Mascotas\obj\Debug\Mascotas.csproj.GenerateResource.cache
+D:\Escritorio\CARLOS\c#\Mascotas\Mascotas\obj\Debug\Mascotas.csproj.CoreCompileInputs.cache
+D:\Escritorio\CARLOS\c#\Mascotas\Mascotas\obj\Debug\Mascotas.exe
+D:\Escritorio\CARLOS\c#\Mascotas\Mascotas\obj\Debug\Mascotas.pdb

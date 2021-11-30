@@ -1,0 +1,13 @@
+D:\Escritorio\CARLOS\c#\listas1\listas1\bin\Debug\netcoreapp3.1\listas1.exe
+D:\Escritorio\CARLOS\c#\listas1\listas1\bin\Debug\netcoreapp3.1\listas1.deps.json
+D:\Escritorio\CARLOS\c#\listas1\listas1\bin\Debug\netcoreapp3.1\listas1.runtimeconfig.json
+D:\Escritorio\CARLOS\c#\listas1\listas1\bin\Debug\netcoreapp3.1\listas1.runtimeconfig.dev.json
+D:\Escritorio\CARLOS\c#\listas1\listas1\bin\Debug\netcoreapp3.1\listas1.dll
+D:\Escritorio\CARLOS\c#\listas1\listas1\bin\Debug\netcoreapp3.1\listas1.pdb
+D:\Escritorio\CARLOS\c#\listas1\listas1\obj\Debug\netcoreapp3.1\listas1.csproj.AssemblyReference.cache
+D:\Escritorio\CARLOS\c#\listas1\listas1\obj\Debug\netcoreapp3.1\listas1.AssemblyInfoInputs.cache
+D:\Escritorio\CARLOS\c#\listas1\listas1\obj\Debug\netcoreapp3.1\listas1.AssemblyInfo.cs
+D:\Escritorio\CARLOS\c#\listas1\listas1\obj\Debug\netcoreapp3.1\listas1.csproj.CoreCompileInputs.cache
+D:\Escritorio\CARLOS\c#\listas1\listas1\obj\Debug\netcoreapp3.1\listas1.dll
+D:\Escritorio\CARLOS\c#\listas1\listas1\obj\Debug\netcoreapp3.1\listas1.pdb
+D:\Escritorio\CARLOS\c#\listas1\listas1\obj\Debug\netcoreapp3.1\listas1.genruntimeconfig.cache

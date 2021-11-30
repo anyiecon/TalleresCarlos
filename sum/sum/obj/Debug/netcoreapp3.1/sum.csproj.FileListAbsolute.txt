@@ -1,0 +1,12 @@
+C:\Users\Anyie\Desktop\ejercicios c#\sum\sum\bin\Debug\netcoreapp3.1\sum.exe
+C:\Users\Anyie\Desktop\ejercicios c#\sum\sum\bin\Debug\netcoreapp3.1\sum.deps.json
+C:\Users\Anyie\Desktop\ejercicios c#\sum\sum\bin\Debug\netcoreapp3.1\sum.runtimeconfig.json
+C:\Users\Anyie\Desktop\ejercicios c#\sum\sum\bin\Debug\netcoreapp3.1\sum.runtimeconfig.dev.json
+C:\Users\Anyie\Desktop\ejercicios c#\sum\sum\bin\Debug\netcoreapp3.1\sum.dll
+C:\Users\Anyie\Desktop\ejercicios c#\sum\sum\bin\Debug\netcoreapp3.1\sum.pdb
+C:\Users\Anyie\Desktop\ejercicios c#\sum\sum\obj\Debug\netcoreapp3.1\sum.AssemblyInfoInputs.cache
+C:\Users\Anyie\Desktop\ejercicios c#\sum\sum\obj\Debug\netcoreapp3.1\sum.AssemblyInfo.cs
+C:\Users\Anyie\Desktop\ejercicios c#\sum\sum\obj\Debug\netcoreapp3.1\sum.csproj.CoreCompileInputs.cache
+C:\Users\Anyie\Desktop\ejercicios c#\sum\sum\obj\Debug\netcoreapp3.1\sum.dll
+C:\Users\Anyie\Desktop\ejercicios c#\sum\sum\obj\Debug\netcoreapp3.1\sum.pdb
+C:\Users\Anyie\Desktop\ejercicios c#\sum\sum\obj\Debug\netcoreapp3.1\sum.genruntimeconfig.cache

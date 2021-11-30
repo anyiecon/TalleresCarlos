@@ -1,0 +1,13 @@
+D:\Escritorio\CARLOS\c#\listacuatro\listacuatro\bin\Debug\netcoreapp3.1\listacuatro.exe
+D:\Escritorio\CARLOS\c#\listacuatro\listacuatro\bin\Debug\netcoreapp3.1\listacuatro.deps.json
+D:\Escritorio\CARLOS\c#\listacuatro\listacuatro\bin\Debug\netcoreapp3.1\listacuatro.runtimeconfig.json
+D:\Escritorio\CARLOS\c#\listacuatro\listacuatro\bin\Debug\netcoreapp3.1\listacuatro.runtimeconfig.dev.json
+D:\Escritorio\CARLOS\c#\listacuatro\listacuatro\bin\Debug\netcoreapp3.1\listacuatro.dll
+D:\Escritorio\CARLOS\c#\listacuatro\listacuatro\bin\Debug\netcoreapp3.1\listacuatro.pdb
+D:\Escritorio\CARLOS\c#\listacuatro\listacuatro\obj\Debug\netcoreapp3.1\listacuatro.csproj.AssemblyReference.cache
+D:\Escritorio\CARLOS\c#\listacuatro\listacuatro\obj\Debug\netcoreapp3.1\listacuatro.AssemblyInfoInputs.cache
+D:\Escritorio\CARLOS\c#\listacuatro\listacuatro\obj\Debug\netcoreapp3.1\listacuatro.AssemblyInfo.cs
+D:\Escritorio\CARLOS\c#\listacuatro\listacuatro\obj\Debug\netcoreapp3.1\listacuatro.csproj.CoreCompileInputs.cache
+D:\Escritorio\CARLOS\c#\listacuatro\listacuatro\obj\Debug\netcoreapp3.1\listacuatro.dll
+D:\Escritorio\CARLOS\c#\listacuatro\listacuatro\obj\Debug\netcoreapp3.1\listacuatro.pdb
+D:\Escritorio\CARLOS\c#\listacuatro\listacuatro\obj\Debug\netcoreapp3.1\listacuatro.genruntimeconfig.cache

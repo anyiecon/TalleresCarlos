@@ -1,0 +1,12 @@
+C:\Users\Anyie\Desktop\ejercicios c#\bienve\bienve\bin\Debug\netcoreapp3.1\bienve.exe
+C:\Users\Anyie\Desktop\ejercicios c#\bienve\bienve\bin\Debug\netcoreapp3.1\bienve.deps.json
+C:\Users\Anyie\Desktop\ejercicios c#\bienve\bienve\bin\Debug\netcoreapp3.1\bienve.runtimeconfig.json
+C:\Users\Anyie\Desktop\ejercicios c#\bienve\bienve\bin\Debug\netcoreapp3.1\bienve.runtimeconfig.dev.json
+C:\Users\Anyie\Desktop\ejercicios c#\bienve\bienve\bin\Debug\netcoreapp3.1\bienve.dll
+C:\Users\Anyie\Desktop\ejercicios c#\bienve\bienve\bin\Debug\netcoreapp3.1\bienve.pdb
+C:\Users\Anyie\Desktop\ejercicios c#\bienve\bienve\obj\Debug\netcoreapp3.1\bienve.AssemblyInfoInputs.cache
+C:\Users\Anyie\Desktop\ejercicios c#\bienve\bienve\obj\Debug\netcoreapp3.1\bienve.AssemblyInfo.cs
+C:\Users\Anyie\Desktop\ejercicios c#\bienve\bienve\obj\Debug\netcoreapp3.1\bienve.csproj.CoreCompileInputs.cache
+C:\Users\Anyie\Desktop\ejercicios c#\bienve\bienve\obj\Debug\netcoreapp3.1\bienve.dll
+C:\Users\Anyie\Desktop\ejercicios c#\bienve\bienve\obj\Debug\netcoreapp3.1\bienve.pdb
+C:\Users\Anyie\Desktop\ejercicios c#\bienve\bienve\obj\Debug\netcoreapp3.1\bienve.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Escritorio\CARLOS\c#\listados\listados\bin\Debug\netcoreapp3.1\listados.exe
+D:\Escritorio\CARLOS\c#\listados\listados\bin\Debug\netcoreapp3.1\listados.deps.json
+D:\Escritorio\CARLOS\c#\listados\listados\bin\Debug\netcoreapp3.1\listados.runtimeconfig.json
+D:\Escritorio\CARLOS\c#\listados\listados\bin\Debug\netcoreapp3.1\listados.runtimeconfig.dev.json
+D:\Escritorio\CARLOS\c#\listados\listados\bin\Debug\netcoreapp3.1\listados.dll
+D:\Escritorio\CARLOS\c#\listados\listados\bin\Debug\netcoreapp3.1\listados.pdb
+D:\Escritorio\CARLOS\c#\listados\listados\obj\Debug\netcoreapp3.1\listados.csproj.AssemblyReference.cache
+D:\Escritorio\CARLOS\c#\listados\listados\obj\Debug\netcoreapp3.1\listados.AssemblyInfoInputs.cache
+D:\Escritorio\CARLOS\c#\listados\listados\obj\Debug\netcoreapp3.1\listados.AssemblyInfo.cs
+D:\Escritorio\CARLOS\c#\listados\listados\obj\Debug\netcoreapp3.1\listados.csproj.CoreCompileInputs.cache
+D:\Escritorio\CARLOS\c#\listados\listados\obj\Debug\netcoreapp3.1\listados.dll
+D:\Escritorio\CARLOS\c#\listados\listados\obj\Debug\netcoreapp3.1\listados.pdb
+D:\Escritorio\CARLOS\c#\listados\listados\obj\Debug\netcoreapp3.1\listados.genruntimeconfig.cache

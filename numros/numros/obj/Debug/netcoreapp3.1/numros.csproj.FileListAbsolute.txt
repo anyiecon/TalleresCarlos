@@ -1,0 +1,12 @@
+C:\Users\Anyie\Desktop\ejercicios c#\numros\numros\obj\Debug\netcoreapp3.1\numros.AssemblyInfoInputs.cache
+C:\Users\Anyie\Desktop\ejercicios c#\numros\numros\obj\Debug\netcoreapp3.1\numros.AssemblyInfo.cs
+C:\Users\Anyie\Desktop\ejercicios c#\numros\numros\obj\Debug\netcoreapp3.1\numros.csproj.CoreCompileInputs.cache
+C:\Users\Anyie\Desktop\ejercicios c#\numros\numros\bin\Debug\netcoreapp3.1\numros.exe
+C:\Users\Anyie\Desktop\ejercicios c#\numros\numros\bin\Debug\netcoreapp3.1\numros.deps.json
+C:\Users\Anyie\Desktop\ejercicios c#\numros\numros\bin\Debug\netcoreapp3.1\numros.runtimeconfig.json
+C:\Users\Anyie\Desktop\ejercicios c#\numros\numros\bin\Debug\netcoreapp3.1\numros.runtimeconfig.dev.json
+C:\Users\Anyie\Desktop\ejercicios c#\numros\numros\bin\Debug\netcoreapp3.1\numros.dll
+C:\Users\Anyie\Desktop\ejercicios c#\numros\numros\bin\Debug\netcoreapp3.1\numros.pdb
+C:\Users\Anyie\Desktop\ejercicios c#\numros\numros\obj\Debug\netcoreapp3.1\numros.dll
+C:\Users\Anyie\Desktop\ejercicios c#\numros\numros\obj\Debug\netcoreapp3.1\numros.pdb
+C:\Users\Anyie\Desktop\ejercicios c#\numros\numros\obj\Debug\netcoreapp3.1\numros.genruntimeconfig.cache

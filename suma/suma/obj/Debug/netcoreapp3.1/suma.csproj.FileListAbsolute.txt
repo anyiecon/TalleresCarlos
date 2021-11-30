@@ -1,0 +1,12 @@
+C:\Users\Anyie\Desktop\ejercicios c#\suma\suma\bin\Debug\netcoreapp3.1\suma.exe
+C:\Users\Anyie\Desktop\ejercicios c#\suma\suma\bin\Debug\netcoreapp3.1\suma.deps.json
+C:\Users\Anyie\Desktop\ejercicios c#\suma\suma\bin\Debug\netcoreapp3.1\suma.runtimeconfig.json
+C:\Users\Anyie\Desktop\ejercicios c#\suma\suma\bin\Debug\netcoreapp3.1\suma.runtimeconfig.dev.json
+C:\Users\Anyie\Desktop\ejercicios c#\suma\suma\bin\Debug\netcoreapp3.1\suma.dll
+C:\Users\Anyie\Desktop\ejercicios c#\suma\suma\bin\Debug\netcoreapp3.1\suma.pdb
+C:\Users\Anyie\Desktop\ejercicios c#\suma\suma\obj\Debug\netcoreapp3.1\suma.AssemblyInfoInputs.cache
+C:\Users\Anyie\Desktop\ejercicios c#\suma\suma\obj\Debug\netcoreapp3.1\suma.AssemblyInfo.cs
+C:\Users\Anyie\Desktop\ejercicios c#\suma\suma\obj\Debug\netcoreapp3.1\suma.csproj.CoreCompileInputs.cache
+C:\Users\Anyie\Desktop\ejercicios c#\suma\suma\obj\Debug\netcoreapp3.1\suma.dll
+C:\Users\Anyie\Desktop\ejercicios c#\suma\suma\obj\Debug\netcoreapp3.1\suma.pdb
+C:\Users\Anyie\Desktop\ejercicios c#\suma\suma\obj\Debug\netcoreapp3.1\suma.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Anyie\Desktop\ejercicios c#\siete\siete\bin\Debug\netcoreapp3.1\siete.exe
+C:\Users\Anyie\Desktop\ejercicios c#\siete\siete\bin\Debug\netcoreapp3.1\siete.deps.json
+C:\Users\Anyie\Desktop\ejercicios c#\siete\siete\bin\Debug\netcoreapp3.1\siete.runtimeconfig.json
+C:\Users\Anyie\Desktop\ejercicios c#\siete\siete\bin\Debug\netcoreapp3.1\siete.runtimeconfig.dev.json
+C:\Users\Anyie\Desktop\ejercicios c#\siete\siete\bin\Debug\netcoreapp3.1\siete.dll
+C:\Users\Anyie\Desktop\ejercicios c#\siete\siete\bin\Debug\netcoreapp3.1\siete.pdb
+C:\Users\Anyie\Desktop\ejercicios c#\siete\siete\obj\Debug\netcoreapp3.1\siete.csproj.AssemblyReference.cache
+C:\Users\Anyie\Desktop\ejercicios c#\siete\siete\obj\Debug\netcoreapp3.1\siete.AssemblyInfoInputs.cache
+C:\Users\Anyie\Desktop\ejercicios c#\siete\siete\obj\Debug\netcoreapp3.1\siete.AssemblyInfo.cs
+C:\Users\Anyie\Desktop\ejercicios c#\siete\siete\obj\Debug\netcoreapp3.1\siete.csproj.CoreCompileInputs.cache
+C:\Users\Anyie\Desktop\ejercicios c#\siete\siete\obj\Debug\netcoreapp3.1\siete.dll
+C:\Users\Anyie\Desktop\ejercicios c#\siete\siete\obj\Debug\netcoreapp3.1\siete.pdb
+C:\Users\Anyie\Desktop\ejercicios c#\siete\siete\obj\Debug\netcoreapp3.1\siete.genruntimeconfig.cache

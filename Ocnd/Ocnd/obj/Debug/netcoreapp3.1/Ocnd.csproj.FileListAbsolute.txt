@@ -1,0 +1,12 @@
+C:\Users\Anyie\Desktop\ejercicios c#\Ocnd\Ocnd\bin\Debug\netcoreapp3.1\Ocnd.exe
+C:\Users\Anyie\Desktop\ejercicios c#\Ocnd\Ocnd\bin\Debug\netcoreapp3.1\Ocnd.deps.json
+C:\Users\Anyie\Desktop\ejercicios c#\Ocnd\Ocnd\bin\Debug\netcoreapp3.1\Ocnd.runtimeconfig.json
+C:\Users\Anyie\Desktop\ejercicios c#\Ocnd\Ocnd\bin\Debug\netcoreapp3.1\Ocnd.runtimeconfig.dev.json
+C:\Users\Anyie\Desktop\ejercicios c#\Ocnd\Ocnd\bin\Debug\netcoreapp3.1\Ocnd.dll
+C:\Users\Anyie\Desktop\ejercicios c#\Ocnd\Ocnd\bin\Debug\netcoreapp3.1\Ocnd.pdb
+C:\Users\Anyie\Desktop\ejercicios c#\Ocnd\Ocnd\obj\Debug\netcoreapp3.1\Ocnd.AssemblyInfoInputs.cache
+C:\Users\Anyie\Desktop\ejercicios c#\Ocnd\Ocnd\obj\Debug\netcoreapp3.1\Ocnd.AssemblyInfo.cs
+C:\Users\Anyie\Desktop\ejercicios c#\Ocnd\Ocnd\obj\Debug\netcoreapp3.1\Ocnd.csproj.CoreCompileInputs.cache
+C:\Users\Anyie\Desktop\ejercicios c#\Ocnd\Ocnd\obj\Debug\netcoreapp3.1\Ocnd.dll
+C:\Users\Anyie\Desktop\ejercicios c#\Ocnd\Ocnd\obj\Debug\netcoreapp3.1\Ocnd.pdb
+C:\Users\Anyie\Desktop\ejercicios c#\Ocnd\Ocnd\obj\Debug\netcoreapp3.1\Ocnd.genruntimeconfig.cache

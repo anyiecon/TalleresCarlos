@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-Form1",
+      "appliesTo": "Mascotas/Form1.cs",
+      "type": "launch"
+    }
+  ]
+}
